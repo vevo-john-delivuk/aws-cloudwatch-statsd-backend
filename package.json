@@ -11,7 +11,7 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*",
-    "npm": "2.11.3"
+    "npm": "~2"
   },
   "repository": {
     "type": "git",
