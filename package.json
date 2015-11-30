@@ -10,7 +10,8 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
-    "node": ">=2.13.0"
+    "node": "*",
+    "npm": ">=2.13.0"
   },
   "repository": {
     "type": "git",
